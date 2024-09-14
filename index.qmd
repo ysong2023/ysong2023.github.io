@@ -4,4 +4,5 @@ title: "Yi SONG's Millie"
 
 Hell, world! My name is Millie!
 
-![Millie](docs/millie.JPG)
+![Millie](millie.JPG)
+
